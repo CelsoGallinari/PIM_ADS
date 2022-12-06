@@ -1,0 +1,12 @@
+C:\pim\pim\pim\bin\Debug\pim.exe.config
+C:\pim\pim\pim\bin\Debug\pim.exe
+C:\pim\pim\pim\bin\Debug\pim.pdb
+C:\pim\pim\pim\obj\Debug\pim.csproj.AssemblyReference.cache
+C:\pim\pim\pim\obj\Debug\pim.csproj.SuggestedBindingRedirects.cache
+C:\pim\pim\pim\obj\Debug\pim.Properties.Resources.resources
+C:\pim\pim\pim\obj\Debug\pim.csproj.GenerateResource.cache
+C:\pim\pim\pim\obj\Debug\pim.csproj.CoreCompileInputs.cache
+C:\pim\pim\pim\obj\Debug\pim.exe
+C:\pim\pim\pim\obj\Debug\pim.pdb
+C:\pim\pim\pim\obj\Debug\pim.frmMenu.resources
+C:\pim\pim\pim\obj\Debug\pim.frmLogin.resources
