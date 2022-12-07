@@ -40,6 +40,12 @@ namespace pim
                 txtSenha.Focus();
                 return;
             }
+            if (txtUsuario.Text != "admin" || txtSenha.Text != "123456")
+            {
+                MessageBox.Show("Usuário ou Senha está incorreto");
+                txtSenha.Focus();
+                return;
+            }
             //codigo para o login
             frmMenu form = new frmMenu();
             //this.Hide();

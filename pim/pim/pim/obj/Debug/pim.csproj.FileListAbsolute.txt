@@ -10,3 +10,15 @@ C:\pim\pim\pim\obj\Debug\pim.exe
 C:\pim\pim\pim\obj\Debug\pim.pdb
 C:\pim\pim\pim\obj\Debug\pim.frmMenu.resources
 C:\pim\pim\pim\obj\Debug\pim.frmLogin.resources
+C:\Users\user\Desktop\pim\pim\pim\bin\Debug\pim.exe.config
+C:\Users\user\Desktop\pim\pim\pim\bin\Debug\pim.exe
+C:\Users\user\Desktop\pim\pim\pim\bin\Debug\pim.pdb
+C:\Users\user\Desktop\pim\pim\pim\obj\Debug\pim.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\pim\pim\pim\obj\Debug\pim.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\pim\pim\pim\obj\Debug\pim.frmLogin.resources
+C:\Users\user\Desktop\pim\pim\pim\obj\Debug\pim.frmMenu.resources
+C:\Users\user\Desktop\pim\pim\pim\obj\Debug\pim.Properties.Resources.resources
+C:\Users\user\Desktop\pim\pim\pim\obj\Debug\pim.csproj.GenerateResource.cache
+C:\Users\user\Desktop\pim\pim\pim\obj\Debug\pim.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\pim\pim\pim\obj\Debug\pim.exe
+C:\Users\user\Desktop\pim\pim\pim\obj\Debug\pim.pdb
